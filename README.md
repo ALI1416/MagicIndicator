@@ -1,0 +1,2 @@
+# MagicIndicator
+MagicIndicator升级到AndroidX
