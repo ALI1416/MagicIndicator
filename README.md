@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/github/license/ali1416/MagicIndicator?label=License)](https://opensource.org/licenses/MIT)
 [![Java Support](https://img.shields.io/badge/Java-8+-green)](https://openjdk.org/)
-[![Repo Size](https://img.shields.io/github/repo-size/ali1416/MagicIndicator?label=Repo%20Size&color=success)](https://github.com/ALI1416/MagicIndicator)
+[![Repo Size](https://img.shields.io/github/repo-size/ali1416/MagicIndicator?label=Repo%20Size&color=success)](https://github.com/ALI1416/MagicIndicator/archive/refs/heads/master.zip)
 
 ## 简介
 
